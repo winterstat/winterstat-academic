@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sonja D. Winter
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Quantitative Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Merced
+  url: "https://psychology.ucmerced.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantitative methods, structural equation modeling, mixture modeling, measurement, and Bayesian methods.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Latent measurement models
+- Longitudinal data
+- Mixture modeling
+- Bayesian methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Quantitative Psychology
+    institution: UC Merced
+    year: ongoing
+  - course: Msc in Developmental Psychology (cum laude)
+    institution: Utrecht University
+    year: 2013
+  - course: BSc in Developmental Psychology
+    institution: Utrecht University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/winterstat
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=yXLOreMAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://https://www.researchgate.net/profile/Sonja_Winter
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/winterstat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently pursuing my PhD in Quantitative Psychology at UC Merced. My goal is to improve the fit between statistical models and analyses and the research questions that the field of psychology needs answers to. My current research focuses on detecting specification issues in structural equation models through Bayesian estimation. More broadly speaking, I am interested in models of development, structural equation modeling, and the potential benefits of thoughtful application of Bayesian estimation.

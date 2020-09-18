@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "UC Merced"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Merced, California"
+  date_start = "2016-08-15"
   date_end = ""
   description = """
-  Responsibilities include:
+  **Courses include:**
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Psychology 010: Analysis of Psychological Data
+  * Psychology 010L: Analysis of Psychological Data Lab
+  * Psychology 015: Research Methods in Psychology
+  * Psychology 105: Advanced Research Methods in Psychology
+  * Psychology 202A: Advanced Psychological Statistics I (Graduate level)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Junior Researcher"
+  company = "Utrecht University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Utrecht, the Netherlands"
+  date_start = "2014-01-15"
+  date_end = "2016-06-01"
+  description = """
+  **Department of Methodology and Statistics for the Behavioral and Social Sciences**\n
+  Lab Coordinator: Rens van de Schoot, PhD
+
+  Responsibilities: Gave support at each step of the research cycle (literature re-
+view, data collection and management, analysis, writing final article or report); Organized meetings, events, and conferences. Communicated with guests and speakers; Put forth new ideas for future research.
+	"""
+
+[[experience]]
+  title = "Founder"
+  company = "Winter Statistics"
+  company_url = ""
+  location = "Amsterdam, the Netherlands"
+  date_start = "2014-01-01"
+  date_end = "2016-06-01"
+  description = """
+  Statistical consultancy and support with executing research and analyses. Collaborated with researchers and companies to answer their research questions with the data available; Gave introduction to Statistics workshops at conferences or within companies; Clients included: Free University Amsterdam, Elastic (USA), Lund University (Sweden), Rutgers Foundation.
+  """
 
 +++
