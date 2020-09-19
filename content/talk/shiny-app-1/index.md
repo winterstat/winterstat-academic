@@ -1,12 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+draft: true
 title: "Shiny App: The Impact of Prior Distributions in a Bayesian Latent Growth Model"
 summary: ""
 authors: ["admin"]
 tags: []
 categories: []
 date: 2020-09-18T14:59:07-07:00
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://utrecht-university.shinyapps.io/impact_of_prior_distributions/"
