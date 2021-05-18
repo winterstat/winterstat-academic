@@ -73,4 +73,4 @@ highlight_name: true
 
 I am currently pursuing my PhD in Quantitative Psychology at UC Merced. My goal is to improve the fit between statistical models and analyses and the research questions that the field of psychology needs answers to. My current research focuses on detecting specification issues in structural equation models through Bayesian estimation. More broadly speaking, I am interested in models of development, structural equation modeling, and the potential benefits of thoughtful application of Bayesian estimation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" #"newtab" >}}CV{{< /staticref >}}.
