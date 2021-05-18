@@ -6,7 +6,7 @@ summary: ""
 authors: ["admin"]
 tags: []
 categories: []
-date: 2020-09-18T15:08:34-07:00
+date: 2019-09-18T15:08:34-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://utrecht-university.shinyapps.io/bayesian_estimation/"
