@@ -6,12 +6,12 @@ title: Sonja D. Winter
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Quantitative Psychology
+role: Postdoctoral Fellow at Missouri Prevention Science Institute
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Merced
-  url: https://psychology.ucmerced.edu/
+- name: University of Missouri
+  url: http://moprevention.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantitative methods, structural equation modeling, mixture modeling, measurement, and Bayesian methods.
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Quantitative Psychology
     institution: UC Merced
-    year: ongoing
+    year: 2021
   - course: Msc in Developmental Psychology (cum laude)
     institution: Utrecht University
     year: 2013
@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: uploads/winter_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently pursuing my PhD in Quantitative Psychology at UC Merced. My goal is to improve the fit between statistical models and analyses and the research questions that the field of psychology needs answers to. My current research focuses on detecting specification issues in structural equation models through Bayesian estimation. More broadly speaking, I am interested in models of development, structural equation modeling, and the potential benefits of thoughtful application of Bayesian estimation.
+I recently successfully defended my dissertation in pursuit of a PhD in Quantitative Psychology at UC Merced. My goal is to improve the fit between statistical models and analyses and the research questions that the field of psychology needs answers to. My current research focuses on detecting specification issues in structural equation models through Bayesian estimation. More broadly speaking, I am interested in models of development, structural equation modeling, and the potential benefits of thoughtful application of Bayesian estimation.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" #"newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/winter_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

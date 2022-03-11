@@ -23,13 +23,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Fellow
+    company: Missouri Prevention Science Institute, University of Missouri
+    company_url: 'http://moprevention.org/'
+    company_logo: 
+    location: Columbia, Missouri
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Methodological postdoctoral fellow working under the mentorship of Dr. Wes Bonifay. Focusing on Bayesian statistics and structural equation models of all shapes and sizes.        
+
   - title: Teaching Assistant
     company: UC Merced
     company_url: ''
     company_logo: 
     location: Merced, California
     date_start: '2016-08-15'
-    date_end: ''
+    date_end: '2021-07-31'
     description: |2-
         Courses include:
         

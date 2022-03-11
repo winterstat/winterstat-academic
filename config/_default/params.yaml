@@ -5,7 +5,6 @@
 
 # Appearance
 
-#theme: minimal
 theme: custom
 day_night: true
 font: ''
@@ -24,20 +23,20 @@ twitter: ''
 email: swinter@ucmerced.edu
 phone: 
 address:
-  street: 5200 N Lake Road
-  city: Merced
-  region: CA
-  postcode: '95343'
+  street: 21 Hill Hall
+  city: Columbia
+  region: MO
+  postcode: '65211'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.367506'
-  longitude: '-120.421903'
-directions: Enter the Social Sciences and Management Building and take the stairs to SSM 320 on the third floor
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
+  latitude: '38.9453288'
+  longitude: '-92.3299999'
+directions: Enter Hill Hall on the ground floor level to find room 21.
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -142,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'Mapbox'
+  provider: 'mapbox'
   api_key: ''
   zoom: 15
 marketing:

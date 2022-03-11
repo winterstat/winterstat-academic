@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sonja D. Winter # Website name
-baseurl: 'winterstat.github.io' # Website URL
+baseurl: 'https://winterstat.github.io' # Website URL
 copyright: '&copy; {year} Sonja D. Winter' # Footer text, e.g. '© {year} Me'
 
 ############################
