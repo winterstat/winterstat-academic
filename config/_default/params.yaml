@@ -23,7 +23,7 @@ twitter: ''
 email: swinter@ucmerced.edu
 phone: 
 address:
-  street: 21 Hill Hall
+  street: 202 Hill Hall
   city: Columbia
   region: MO
   postcode: '65211'
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '38.9453288'
   longitude: '-92.3299999'
-directions: Enter Hill Hall on the ground floor level to find room 21.
+directions: Enter Hill Hall and proceed to Level 2 to find room 202.
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
