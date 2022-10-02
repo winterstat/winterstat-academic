@@ -14,14 +14,15 @@ organizations:
   url: http://moprevention.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantitative methods, structural equation modeling, mixture modeling, measurement, and Bayesian methods.
+bio: My research interests include Bayesian methods, structural equation modeling, mixture modeling, and measurement.
 
 # Interests to show in About widget
 interests:
-- Latent measurement models
-- Longitudinal data
-- Mixture modeling
 - Bayesian methods
+- Structural Equation Modeling
+- Longitudinal data
+- Measurement
+
 
 # Education to show in About widget
 education:
@@ -71,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I recently successfully defended my dissertation in pursuit of a PhD in Quantitative Psychology at UC Merced. My goal is to improve the fit between statistical models and analyses and the research questions that the field of psychology needs answers to. My current research focuses on detecting specification issues in structural equation models through Bayesian estimation. More broadly speaking, I am interested in models of development, structural equation modeling, and the potential benefits of thoughtful application of Bayesian estimation.
+I am a postdoctoral fellow with the Missouri Prevention Science Institute at the University of Missouri. My overarching research goal is to facilitate the thoughtful application of advanced quantitative methods. My current research focuses on two decision points in the statistical modeling process: model specification and model evaluation. On the specification end of the process, I focus on advancing our understanding of the role of prior distributions in Bayesian analyses. On the evaluation end of the process, I examine how we can use alternatives to goodnesss-of-fit testing to better evaluate the validity of our models. More broadly speaking, I am interested in models of development, structural equation modeling, and Bayesian estimation.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/winter_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
